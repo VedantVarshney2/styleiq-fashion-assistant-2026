@@ -1,0 +1,1001 @@
+Product_ID,Category,Subcategory,Gender,Color,Size,Brand,Price_INR,Rating
+F0001,Accessories,Watch,Men,Green,S,StylePro,1342,4.5
+F0002,Accessories,Backpack,Unisex,White,XL,VogueLine,459,3.1
+F0003,Clothing,Trousers,Unisex,Navy,XS,StylePro,3331,4.3
+F0004,Accessories,Cap,Men,Brown,XL,StreetMode,252,4.5
+F0005,Clothing,Dress,Women,Green,S,StylePro,3526,3.7
+F0006,Clothing,Dress,Men,Grey,M,StreetMode,3704,3.1
+F0007,Footwear,Boots,Men,Beige,XS,StreetMode,5848,4.2
+F0008,Footwear,Boots,Men,White,XS,StylePro,3069,5.0
+F0009,Clothing,Shirt,Women,Green,L,ClassicWear,1065,3.7
+F0010,Clothing,Hoodie,Unisex,White,XL,FashionHub,2586,4.5
+F0011,Clothing,Skirt,Women,Green,XXL,StylePro,3203,3.6
+F0012,Clothing,Trousers,Men,Grey,L,StreetMode,670,3.4
+F0013,Accessories,Backpack,Women,Red,XXL,DenimCo,3440,4.8
+F0014,Accessories,Cap,Men,Green,S,StylePro,4797,4.1
+F0015,Accessories,Handbag,Women,Navy,L,ClassicWear,1995,5.0
+F0016,Clothing,Kurta,Women,White,XS,TrendWear,1025,4.3
+F0017,Accessories,Cap,Unisex,White,L,VogueLine,4033,4.1
+F0018,Accessories,Wallet,Men,White,XXL,StreetMode,2985,3.2
+F0019,Footwear,Running Shoes,Women,Black,XXL,StreetMode,4799,4.5
+F0020,Accessories,Watch,Unisex,Green,XXL,StylePro,1451,3.7
+F0021,Clothing,Kurta,Unisex,Black,XL,ClassicWear,2400,3.0
+F0022,Footwear,Sandals,Men,Black,S,TrendWear,1400,4.5
+F0023,Clothing,Kurta,Men,Blue,XXL,DenimCo,2650,3.3
+F0024,Accessories,Wallet,Unisex,Beige,S,StylePro,2752,3.8
+F0025,Accessories,Backpack,Women,Brown,XL,DenimCo,1190,3.5
+F0026,Clothing,Jacket,Men,Navy,XL,StylePro,2809,3.4
+F0027,Clothing,T-Shirt,Men,White,XS,ClassicWear,689,4.0
+F0028,Footwear,Slippers,Women,Red,XL,FashionHub,6624,4.9
+F0029,Accessories,Handbag,Women,Red,L,VogueLine,1758,3.2
+F0030,Accessories,Cap,Women,Beige,L,DenimCo,642,4.3
+F0031,Accessories,Watch,Men,Beige,XXL,ClassicWear,1094,3.5
+F0032,Clothing,Kurta,Women,Blue,L,FashionHub,1539,3.9
+F0033,Clothing,Skirt,Unisex,White,XS,UrbanStyle,781,4.9
+F0034,Clothing,Jeans,Women,Brown,L,StylePro,3940,3.8
+F0035,Clothing,Jeans,Women,Black,L,StreetMode,3610,4.6
+F0036,Footwear,Formal Shoes,Unisex,Pink,XXL,DenimCo,1967,3.4
+F0037,Clothing,T-Shirt,Unisex,Pink,XS,ClassicWear,633,3.1
+F0038,Footwear,Boots,Unisex,Blue,XS,TrendWear,2221,3.1
+F0039,Clothing,Trousers,Women,White,XL,StylePro,2770,4.2
+F0040,Accessories,Watch,Women,Navy,XL,ClassicWear,2335,3.4
+F0041,Accessories,Belt,Men,Green,L,FashionHub,2656,3.9
+F0042,Clothing,T-Shirt,Women,Navy,XL,TrendWear,699,4.1
+F0043,Accessories,Belt,Men,Grey,XS,StylePro,3226,3.6
+F0044,Footwear,Boots,Unisex,Green,XL,UrbanStyle,6170,4.6
+F0045,Footwear,Slippers,Men,Blue,M,TrendWear,1575,4.5
+F0046,Clothing,Hoodie,Women,Navy,S,ClassicWear,1232,4.4
+F0047,Footwear,Boots,Women,Green,XS,TrendWear,5895,3.8
+F0048,Footwear,Sneakers,Men,Grey,S,StreetMode,2022,4.5
+F0049,Accessories,Backpack,Women,Pink,XS,TrendWear,815,4.9
+F0050,Accessories,Sunglasses,Unisex,Black,M,FashionHub,3719,3.3
+F0051,Footwear,Sandals,Men,Grey,S,StylePro,6162,3.2
+F0052,Accessories,Wallet,Women,Navy,XXL,FashionHub,2138,4.7
+F0053,Clothing,Dress,Men,Blue,XXL,ClassicWear,3603,4.9
+F0054,Accessories,Wallet,Unisex,Red,M,FashionHub,1084,3.8
+F0055,Clothing,Skirt,Men,Red,L,ClassicWear,1649,4.6
+F0056,Clothing,Trousers,Men,Red,L,ClassicWear,1540,4.7
+F0057,Footwear,Sandals,Unisex,Pink,L,ClassicWear,925,3.2
+F0058,Footwear,Running Shoes,Unisex,Green,XS,TrendWear,5586,3.9
+F0059,Accessories,Wallet,Women,Beige,XL,TrendWear,3354,4.8
+F0060,Clothing,Hoodie,Men,Beige,XS,StylePro,1890,3.9
+F0061,Accessories,Belt,Unisex,Grey,XXL,TrendWear,2659,4.0
+F0062,Accessories,Cap,Women,Beige,XXL,StreetMode,4740,3.3
+F0063,Footwear,Slippers,Women,Blue,XL,StreetMode,4025,4.1
+F0064,Clothing,Hoodie,Women,Red,L,ClassicWear,2303,3.9
+F0065,Accessories,Sunglasses,Unisex,Brown,XXL,FashionHub,893,3.6
+F0066,Accessories,Backpack,Unisex,Grey,XS,StylePro,2741,3.4
+F0067,Clothing,Jeans,Men,Black,S,DenimCo,2902,4.7
+F0068,Clothing,Skirt,Women,Navy,S,VogueLine,2423,3.8
+F0069,Clothing,T-Shirt,Men,Beige,S,FashionHub,3692,4.9
+F0070,Accessories,Cap,Men,Pink,S,TrendWear,3938,3.3
+F0071,Footwear,Slippers,Unisex,Pink,XL,ClassicWear,6886,4.8
+F0072,Accessories,Wallet,Unisex,Pink,L,DenimCo,1502,4.5
+F0073,Footwear,Formal Shoes,Women,Red,XXL,StreetMode,6972,4.6
+F0074,Footwear,Slippers,Men,Green,L,TrendWear,6544,3.6
+F0075,Footwear,Sandals,Women,Pink,XS,FashionHub,1934,3.5
+F0076,Accessories,Sunglasses,Unisex,Red,XS,VogueLine,3538,3.7
+F0077,Footwear,Formal Shoes,Men,Red,L,VogueLine,5483,4.9
+F0078,Clothing,Dress,Women,Black,M,StreetMode,3485,3.8
+F0079,Footwear,Boots,Unisex,Pink,XL,StylePro,4698,3.4
+F0080,Footwear,Formal Shoes,Men,Beige,M,VogueLine,6631,3.3
+F0081,Footwear,Running Shoes,Unisex,Pink,XS,VogueLine,5547,4.1
+F0082,Clothing,Shirt,Unisex,Beige,S,DenimCo,1143,3.1
+F0083,Footwear,Sandals,Men,Brown,M,ClassicWear,6934,4.8
+F0084,Footwear,Formal Shoes,Women,White,L,UrbanStyle,6835,4.1
+F0085,Footwear,Running Shoes,Unisex,White,XXL,UrbanStyle,6877,3.1
+F0086,Clothing,Trousers,Men,Navy,S,StylePro,916,3.9
+F0087,Clothing,Trousers,Women,Green,M,FashionHub,2880,4.2
+F0088,Accessories,Backpack,Men,Blue,M,TrendWear,4939,3.1
+F0089,Footwear,Boots,Unisex,Beige,L,StylePro,1321,4.2
+F0090,Accessories,Sunglasses,Men,Green,XXL,TrendWear,4835,4.6
+F0091,Footwear,Boots,Women,Grey,XS,ClassicWear,802,4.7
+F0092,Footwear,Sneakers,Women,Grey,XXL,DenimCo,6493,3.3
+F0093,Clothing,Kurta,Unisex,Green,XL,DenimCo,2303,3.9
+F0094,Accessories,Handbag,Women,Grey,S,TrendWear,2483,4.8
+F0095,Clothing,Skirt,Unisex,Navy,XXL,VogueLine,1776,3.1
+F0096,Footwear,Running Shoes,Women,Red,M,StreetMode,3487,3.6
+F0097,Accessories,Backpack,Women,Pink,XS,StylePro,900,3.5
+F0098,Footwear,Formal Shoes,Unisex,Red,XXL,DenimCo,5990,4.4
+F0099,Footwear,Sneakers,Men,Green,S,VogueLine,6366,3.5
+F0100,Accessories,Handbag,Women,Brown,XL,ClassicWear,3684,5.0
+F0101,Accessories,Belt,Women,Brown,M,StreetMode,2258,3.5
+F0102,Accessories,Sunglasses,Women,White,XXL,FashionHub,1768,3.4
+F0103,Footwear,Sandals,Unisex,Navy,XL,StreetMode,1522,4.7
+F0104,Footwear,Running Shoes,Women,Blue,M,UrbanStyle,6499,4.1
+F0105,Footwear,Sneakers,Men,Pink,M,FashionHub,5924,4.7
+F0106,Footwear,Sneakers,Men,Navy,M,DenimCo,4620,3.9
+F0107,Clothing,T-Shirt,Women,Brown,XS,TrendWear,2040,4.0
+F0108,Accessories,Backpack,Unisex,Black,S,FashionHub,4809,4.9
+F0109,Clothing,Trousers,Men,Pink,L,StylePro,3576,4.0
+F0110,Footwear,Formal Shoes,Women,Navy,L,StreetMode,5357,4.2
+F0111,Accessories,Backpack,Men,Red,XXL,StylePro,2366,4.3
+F0112,Clothing,Trousers,Men,Pink,XS,FashionHub,409,3.8
+F0113,Accessories,Handbag,Women,Green,XS,StylePro,2559,4.4
+F0114,Accessories,Wallet,Women,White,XXL,StylePro,2366,4.6
+F0115,Accessories,Handbag,Unisex,Red,L,TrendWear,4660,3.4
+F0116,Clothing,Hoodie,Men,White,XS,FashionHub,3645,3.6
+F0117,Accessories,Wallet,Unisex,Green,L,TrendWear,4038,4.4
+F0118,Accessories,Cap,Women,Pink,XL,DenimCo,3785,3.2
+F0119,Clothing,Dress,Unisex,Grey,XL,StreetMode,504,3.2
+F0120,Accessories,Wallet,Unisex,Navy,XS,StreetMode,4919,3.1
+F0121,Clothing,Skirt,Unisex,Brown,M,FashionHub,2796,3.9
+F0122,Footwear,Sneakers,Women,Grey,L,ClassicWear,3329,4.3
+F0123,Clothing,Jacket,Women,Brown,M,VogueLine,3731,4.5
+F0124,Clothing,Skirt,Men,Grey,M,ClassicWear,873,4.9
+F0125,Footwear,Boots,Men,Pink,L,VogueLine,1143,3.4
+F0126,Footwear,Boots,Women,Brown,XS,StylePro,2886,4.1
+F0127,Footwear,Formal Shoes,Unisex,Brown,XS,UrbanStyle,5860,4.2
+F0128,Clothing,Jeans,Women,Pink,XS,VogueLine,780,3.4
+F0129,Clothing,Skirt,Men,Blue,L,StreetMode,2483,4.4
+F0130,Footwear,Formal Shoes,Women,Red,L,FashionHub,3841,3.4
+F0131,Accessories,Handbag,Unisex,Blue,XS,StreetMode,3598,3.7
+F0132,Accessories,Belt,Men,Green,XXL,StreetMode,4949,5.0
+F0133,Footwear,Running Shoes,Women,Pink,L,ClassicWear,3422,4.1
+F0134,Accessories,Cap,Women,Grey,S,StylePro,4883,3.8
+F0135,Footwear,Sneakers,Women,Brown,XXL,VogueLine,3861,5.0
+F0136,Accessories,Sunglasses,Women,Black,S,ClassicWear,1021,4.7
+F0137,Footwear,Sneakers,Unisex,Brown,XS,FashionHub,4057,4.7
+F0138,Clothing,Shirt,Women,Green,M,VogueLine,3060,3.2
+F0139,Footwear,Slippers,Unisex,Beige,M,DenimCo,5131,3.1
+F0140,Clothing,Trousers,Unisex,Green,S,TrendWear,2176,5.0
+F0141,Accessories,Backpack,Men,Brown,S,StreetMode,436,3.1
+F0142,Clothing,Hoodie,Women,Grey,L,FashionHub,1399,4.1
+F0143,Accessories,Backpack,Men,Blue,S,TrendWear,3332,4.2
+F0144,Clothing,Skirt,Unisex,Blue,S,DenimCo,3011,3.5
+F0145,Footwear,Slippers,Men,Brown,M,FashionHub,1304,3.9
+F0146,Footwear,Boots,Women,Beige,XXL,StreetMode,4441,4.7
+F0147,Clothing,Dress,Women,White,S,VogueLine,2741,3.7
+F0148,Footwear,Slippers,Women,Black,XXL,VogueLine,2947,3.0
+F0149,Accessories,Wallet,Unisex,Black,XL,DenimCo,2543,4.6
+F0150,Clothing,Jacket,Men,Red,XL,StreetMode,3175,4.5
+F0151,Accessories,Backpack,Men,White,XXL,UrbanStyle,2729,4.6
+F0152,Clothing,Jacket,Unisex,Blue,XS,StreetMode,1737,4.5
+F0153,Clothing,Trousers,Men,Pink,M,StreetMode,3800,3.3
+F0154,Footwear,Sandals,Unisex,Grey,XS,DenimCo,1315,3.3
+F0155,Clothing,Dress,Unisex,Grey,XS,VogueLine,456,3.5
+F0156,Clothing,Skirt,Women,Green,XL,VogueLine,3767,4.3
+F0157,Footwear,Sneakers,Unisex,Red,L,UrbanStyle,5774,4.8
+F0158,Accessories,Belt,Unisex,Red,XXL,TrendWear,4002,4.8
+F0159,Footwear,Slippers,Women,White,S,UrbanStyle,1003,3.6
+F0160,Footwear,Sneakers,Men,Red,XL,FashionHub,3882,3.9
+F0161,Accessories,Backpack,Unisex,Pink,L,FashionHub,3597,4.3
+F0162,Footwear,Boots,Women,Green,XS,ClassicWear,2478,3.9
+F0163,Clothing,Jacket,Men,Grey,XL,ClassicWear,647,3.8
+F0164,Clothing,Shirt,Women,White,XXL,StylePro,3027,4.3
+F0165,Clothing,T-Shirt,Women,Red,S,StylePro,680,4.7
+F0166,Accessories,Sunglasses,Unisex,Red,S,ClassicWear,1407,4.6
+F0167,Accessories,Watch,Women,Blue,S,StreetMode,1628,3.2
+F0168,Clothing,Jeans,Men,Grey,S,ClassicWear,463,3.3
+F0169,Clothing,Jeans,Unisex,Beige,XL,TrendWear,3453,3.1
+F0170,Footwear,Sandals,Unisex,Navy,XS,DenimCo,4826,3.4
+F0171,Accessories,Watch,Unisex,Pink,M,DenimCo,454,3.1
+F0172,Footwear,Formal Shoes,Women,White,L,DenimCo,1301,4.8
+F0173,Footwear,Boots,Men,White,S,StreetMode,5813,4.3
+F0174,Accessories,Backpack,Women,Beige,XL,StreetMode,3915,4.0
+F0175,Footwear,Sneakers,Unisex,White,XXL,StylePro,4222,3.9
+F0176,Clothing,Dress,Women,Brown,L,VogueLine,3387,3.2
+F0177,Footwear,Sandals,Unisex,Green,M,FashionHub,6325,4.8
+F0178,Clothing,Shirt,Men,White,L,TrendWear,3448,4.5
+F0179,Clothing,Kurta,Men,Navy,XL,ClassicWear,3143,3.2
+F0180,Footwear,Slippers,Women,Black,M,StreetMode,3579,3.2
+F0181,Accessories,Sunglasses,Men,Brown,S,TrendWear,3067,4.7
+F0182,Footwear,Sneakers,Women,Navy,S,VogueLine,5294,4.9
+F0183,Accessories,Handbag,Unisex,Pink,XS,StreetMode,436,3.4
+F0184,Accessories,Wallet,Women,Grey,M,UrbanStyle,1685,4.7
+F0185,Accessories,Backpack,Women,White,S,UrbanStyle,950,4.5
+F0186,Clothing,Dress,Women,Brown,M,FashionHub,1914,3.6
+F0187,Footwear,Boots,Unisex,White,XS,FashionHub,1988,4.5
+F0188,Clothing,Shirt,Women,Brown,XXL,VogueLine,2388,4.2
+F0189,Footwear,Sandals,Men,Pink,XS,ClassicWear,4220,3.2
+F0190,Accessories,Backpack,Unisex,Brown,XL,StreetMode,571,3.4
+F0191,Accessories,Watch,Men,Red,M,StylePro,1323,4.5
+F0192,Footwear,Sandals,Men,Black,L,VogueLine,2138,3.3
+F0193,Accessories,Backpack,Men,Pink,XL,ClassicWear,789,3.8
+F0194,Accessories,Watch,Women,Black,L,TrendWear,2763,4.2
+F0195,Accessories,Cap,Unisex,Beige,M,TrendWear,3517,3.0
+F0196,Footwear,Running Shoes,Unisex,Brown,XXL,ClassicWear,1420,3.9
+F0197,Clothing,Trousers,Women,Navy,L,TrendWear,2020,4.7
+F0198,Accessories,Belt,Men,Grey,S,TrendWear,4380,4.3
+F0199,Accessories,Handbag,Men,Grey,M,FashionHub,2134,3.2
+F0200,Footwear,Running Shoes,Men,Navy,S,TrendWear,2150,4.9
+F0201,Accessories,Cap,Women,Navy,XL,DenimCo,4823,4.3
+F0202,Accessories,Belt,Unisex,Grey,S,DenimCo,758,3.9
+F0203,Accessories,Belt,Women,Navy,XS,ClassicWear,4355,3.1
+F0204,Footwear,Formal Shoes,Men,Black,M,StreetMode,1327,4.3
+F0205,Clothing,Kurta,Women,Brown,XL,UrbanStyle,2241,4.8
+F0206,Accessories,Backpack,Men,Grey,XL,DenimCo,4306,3.3
+F0207,Clothing,Skirt,Men,Grey,XXL,TrendWear,2465,4.3
+F0208,Clothing,Trousers,Unisex,Brown,L,FashionHub,1889,3.7
+F0209,Footwear,Formal Shoes,Women,Grey,XXL,UrbanStyle,5867,4.3
+F0210,Clothing,Jacket,Men,Pink,XXL,VogueLine,1562,3.5
+F0211,Accessories,Handbag,Men,Grey,XS,FashionHub,3064,3.6
+F0212,Accessories,Backpack,Unisex,Beige,S,TrendWear,2735,4.1
+F0213,Accessories,Wallet,Women,Blue,XXL,TrendWear,3667,4.0
+F0214,Clothing,Jacket,Women,Blue,S,ClassicWear,3537,4.0
+F0215,Clothing,Jeans,Men,White,M,TrendWear,2478,4.5
+F0216,Accessories,Handbag,Men,Grey,XL,FashionHub,3285,3.3
+F0217,Clothing,Jeans,Unisex,Brown,XS,VogueLine,1891,4.4
+F0218,Clothing,Skirt,Unisex,Green,XXL,DenimCo,1357,4.1
+F0219,Footwear,Formal Shoes,Men,Grey,XXL,DenimCo,4481,4.5
+F0220,Footwear,Boots,Unisex,Beige,S,StylePro,5652,3.3
+F0221,Footwear,Sneakers,Unisex,Brown,M,TrendWear,6526,4.7
+F0222,Clothing,Hoodie,Men,Blue,M,DenimCo,2501,3.3
+F0223,Footwear,Sneakers,Men,Brown,M,UrbanStyle,4097,3.1
+F0224,Accessories,Belt,Men,Beige,XS,ClassicWear,2038,3.1
+F0225,Clothing,Jacket,Men,Blue,XS,StreetMode,3797,3.9
+F0226,Clothing,Skirt,Women,Navy,XS,TrendWear,476,3.5
+F0227,Clothing,Kurta,Unisex,Navy,XL,VogueLine,854,4.6
+F0228,Clothing,Hoodie,Men,Black,S,VogueLine,3016,4.6
+F0229,Footwear,Sneakers,Men,Brown,XL,UrbanStyle,5875,4.0
+F0230,Clothing,Jeans,Women,Beige,XS,ClassicWear,1384,4.1
+F0231,Clothing,Shirt,Unisex,Grey,XS,UrbanStyle,1998,4.7
+F0232,Clothing,Dress,Women,Green,XXL,UrbanStyle,1861,4.6
+F0233,Footwear,Running Shoes,Unisex,White,XL,ClassicWear,1791,3.1
+F0234,Accessories,Belt,Unisex,Blue,XXL,DenimCo,4119,4.3
+F0235,Clothing,Shirt,Unisex,Brown,XS,StreetMode,1224,3.1
+F0236,Clothing,T-Shirt,Women,Green,XL,VogueLine,3738,4.1
+F0237,Footwear,Sneakers,Unisex,Red,M,ClassicWear,1090,4.7
+F0238,Footwear,Sandals,Men,Grey,L,VogueLine,6788,3.9
+F0239,Footwear,Sandals,Men,Brown,XXL,DenimCo,3708,4.8
+F0240,Accessories,Belt,Men,Beige,XS,VogueLine,1677,4.1
+F0241,Footwear,Sneakers,Men,Grey,XXL,StreetMode,3209,3.9
+F0242,Accessories,Cap,Men,Brown,M,DenimCo,545,4.5
+F0243,Footwear,Boots,Women,Green,XXL,UrbanStyle,1313,4.3
+F0244,Footwear,Sandals,Unisex,Blue,XS,FashionHub,5676,4.4
+F0245,Footwear,Sneakers,Men,White,S,ClassicWear,3665,3.8
+F0246,Accessories,Watch,Unisex,Blue,XXL,DenimCo,3237,3.7
+F0247,Clothing,Jeans,Unisex,Grey,L,ClassicWear,3059,3.6
+F0248,Clothing,T-Shirt,Unisex,Blue,L,VogueLine,2699,3.2
+F0249,Footwear,Slippers,Women,Red,XL,StreetMode,6384,4.8
+F0250,Footwear,Running Shoes,Men,Blue,XS,DenimCo,2113,4.8
+F0251,Footwear,Sneakers,Unisex,Grey,XXL,ClassicWear,6511,3.1
+F0252,Accessories,Belt,Women,Blue,XXL,FashionHub,3160,4.0
+F0253,Clothing,Trousers,Men,Red,L,UrbanStyle,1877,4.1
+F0254,Footwear,Formal Shoes,Unisex,Blue,XL,TrendWear,1237,3.6
+F0255,Accessories,Backpack,Women,Pink,L,VogueLine,4908,3.1
+F0256,Footwear,Slippers,Men,Brown,L,ClassicWear,1750,4.8
+F0257,Accessories,Backpack,Unisex,Blue,S,VogueLine,4318,4.8
+F0258,Clothing,Shirt,Unisex,Blue,M,FashionHub,1062,3.6
+F0259,Accessories,Sunglasses,Women,Pink,M,TrendWear,2251,3.4
+F0260,Accessories,Belt,Men,Green,XL,TrendWear,4316,4.3
+F0261,Accessories,Handbag,Men,Blue,XXL,ClassicWear,4816,3.1
+F0262,Clothing,Shirt,Men,Navy,M,StylePro,3540,4.1
+F0263,Accessories,Backpack,Men,Brown,XXL,StreetMode,2673,4.0
+F0264,Accessories,Cap,Women,Brown,XS,UrbanStyle,1493,3.9
+F0265,Footwear,Formal Shoes,Men,Grey,XL,FashionHub,3259,4.7
+F0266,Footwear,Slippers,Women,Beige,S,ClassicWear,4917,4.1
+F0267,Footwear,Running Shoes,Women,White,M,DenimCo,2729,3.3
+F0268,Clothing,Hoodie,Women,Navy,L,StylePro,3943,4.8
+F0269,Footwear,Boots,Unisex,Grey,S,FashionHub,4780,5.0
+F0270,Footwear,Formal Shoes,Women,Brown,XS,TrendWear,3920,4.0
+F0271,Clothing,Trousers,Unisex,Grey,XS,UrbanStyle,1551,4.0
+F0272,Accessories,Backpack,Women,Green,XL,UrbanStyle,1079,3.9
+F0273,Footwear,Slippers,Women,Beige,M,UrbanStyle,3980,3.1
+F0274,Accessories,Sunglasses,Women,Pink,M,TrendWear,3363,4.0
+F0275,Accessories,Belt,Unisex,Navy,XS,FashionHub,991,3.8
+F0276,Footwear,Boots,Women,Blue,S,VogueLine,4795,3.1
+F0277,Clothing,Jeans,Unisex,Grey,L,DenimCo,1009,4.2
+F0278,Accessories,Sunglasses,Women,Navy,M,FashionHub,3418,5.0
+F0279,Accessories,Wallet,Women,Navy,M,DenimCo,4810,3.6
+F0280,Clothing,Jacket,Women,White,L,StreetMode,3662,4.8
+F0281,Accessories,Backpack,Men,Navy,L,StreetMode,4937,4.2
+F0282,Accessories,Watch,Unisex,Brown,S,VogueLine,1409,4.6
+F0283,Clothing,T-Shirt,Unisex,White,S,UrbanStyle,2205,3.6
+F0284,Clothing,Dress,Unisex,Red,L,DenimCo,3974,4.7
+F0285,Accessories,Watch,Unisex,Blue,XL,StylePro,4793,3.7
+F0286,Accessories,Cap,Unisex,Beige,M,FashionHub,3964,4.8
+F0287,Footwear,Boots,Women,Green,XL,DenimCo,2274,4.9
+F0288,Footwear,Boots,Women,Red,M,StreetMode,6473,3.4
+F0289,Accessories,Cap,Women,Brown,M,StreetMode,2556,3.2
+F0290,Accessories,Handbag,Women,Beige,M,FashionHub,2578,3.1
+F0291,Accessories,Watch,Women,Brown,XXL,StreetMode,4123,3.4
+F0292,Accessories,Belt,Unisex,Green,S,TrendWear,2159,3.5
+F0293,Accessories,Handbag,Men,Red,XS,TrendWear,3584,3.7
+F0294,Footwear,Sneakers,Unisex,Blue,XS,FashionHub,4032,4.3
+F0295,Footwear,Formal Shoes,Unisex,Red,M,ClassicWear,3037,4.3
+F0296,Clothing,Trousers,Unisex,Black,S,VogueLine,3829,3.4
+F0297,Clothing,Dress,Women,Blue,XXL,StreetMode,3990,3.1
+F0298,Footwear,Boots,Unisex,White,M,StreetMode,4421,5.0
+F0299,Accessories,Handbag,Women,Blue,XL,DenimCo,2434,3.4
+F0300,Clothing,Jacket,Men,Brown,XXL,StreetMode,3342,3.4
+F0301,Accessories,Belt,Women,Navy,XXL,StylePro,1636,4.2
+F0302,Accessories,Cap,Women,Pink,M,TrendWear,3482,4.3
+F0303,Clothing,Jeans,Women,Grey,S,UrbanStyle,1467,3.8
+F0304,Footwear,Sandals,Women,Green,XL,UrbanStyle,2841,4.3
+F0305,Accessories,Sunglasses,Men,White,L,StreetMode,1507,3.8
+F0306,Accessories,Backpack,Women,White,XXL,StreetMode,3209,4.2
+F0307,Clothing,Jeans,Women,Blue,L,ClassicWear,2102,4.4
+F0308,Footwear,Boots,Unisex,Red,S,TrendWear,5003,3.9
+F0309,Accessories,Belt,Men,Navy,XS,UrbanStyle,4685,4.8
+F0310,Clothing,Kurta,Men,Blue,M,DenimCo,875,4.4
+F0311,Accessories,Handbag,Women,White,XL,DenimCo,654,3.9
+F0312,Accessories,Cap,Women,Navy,XS,DenimCo,2723,4.4
+F0313,Footwear,Sandals,Men,Red,XL,TrendWear,1070,3.8
+F0314,Accessories,Watch,Unisex,Black,XS,DenimCo,458,3.6
+F0315,Clothing,Jeans,Unisex,Beige,M,VogueLine,2236,4.7
+F0316,Footwear,Formal Shoes,Men,Pink,S,ClassicWear,1670,3.4
+F0317,Accessories,Cap,Unisex,Blue,XXL,StylePro,227,4.5
+F0318,Footwear,Formal Shoes,Unisex,Pink,L,VogueLine,2580,3.5
+F0319,Footwear,Running Shoes,Women,Red,XXL,TrendWear,962,4.6
+F0320,Footwear,Boots,Men,Red,S,TrendWear,1525,4.2
+F0321,Footwear,Boots,Unisex,Black,S,UrbanStyle,3994,3.9
+F0322,Accessories,Sunglasses,Men,Blue,XL,StreetMode,2117,4.6
+F0323,Accessories,Handbag,Women,Navy,XL,ClassicWear,2139,3.6
+F0324,Clothing,Kurta,Men,Beige,M,StreetMode,648,4.1
+F0325,Accessories,Backpack,Men,Beige,XL,DenimCo,583,4.9
+F0326,Accessories,Backpack,Women,Pink,M,VogueLine,3543,3.3
+F0327,Footwear,Running Shoes,Unisex,Brown,S,StylePro,3162,4.7
+F0328,Clothing,Skirt,Men,Pink,L,VogueLine,2681,4.1
+F0329,Footwear,Running Shoes,Women,Red,M,TrendWear,4383,4.7
+F0330,Clothing,Kurta,Unisex,Red,XS,StreetMode,1943,4.3
+F0331,Accessories,Watch,Men,Red,XL,StylePro,4126,3.4
+F0332,Footwear,Sandals,Men,Red,S,TrendWear,6817,5.0
+F0333,Footwear,Running Shoes,Unisex,Navy,XXL,StylePro,3948,4.8
+F0334,Accessories,Belt,Women,Beige,L,ClassicWear,2725,3.5
+F0335,Accessories,Cap,Women,White,XXL,DenimCo,2822,4.8
+F0336,Footwear,Sandals,Women,Black,XL,StylePro,6771,3.3
+F0337,Footwear,Boots,Unisex,Navy,XXL,VogueLine,3117,3.3
+F0338,Footwear,Running Shoes,Women,Navy,S,DenimCo,5209,4.3
+F0339,Accessories,Belt,Women,Brown,XXL,DenimCo,3974,3.3
+F0340,Footwear,Running Shoes,Men,Pink,L,FashionHub,5140,5.0
+F0341,Clothing,Kurta,Men,White,XXL,UrbanStyle,3529,3.0
+F0342,Clothing,Trousers,Men,Blue,XS,StylePro,2470,3.9
+F0343,Clothing,Skirt,Unisex,Brown,XS,UrbanStyle,2578,4.1
+F0344,Clothing,T-Shirt,Unisex,Green,XL,StreetMode,469,4.0
+F0345,Accessories,Backpack,Women,Blue,XS,TrendWear,4494,3.3
+F0346,Clothing,Kurta,Women,Grey,M,VogueLine,722,3.7
+F0347,Footwear,Formal Shoes,Unisex,Red,XXL,StylePro,3156,4.4
+F0348,Clothing,T-Shirt,Men,Beige,L,VogueLine,2662,4.0
+F0349,Accessories,Watch,Unisex,Blue,XS,DenimCo,3753,4.3
+F0350,Footwear,Boots,Men,Pink,XS,StylePro,2430,4.8
+F0351,Accessories,Handbag,Women,Green,XS,TrendWear,2495,4.8
+F0352,Accessories,Backpack,Men,Blue,M,UrbanStyle,1896,4.2
+F0353,Accessories,Wallet,Women,White,M,FashionHub,4818,3.5
+F0354,Footwear,Slippers,Unisex,Grey,L,FashionHub,6345,4.4
+F0355,Accessories,Backpack,Women,Black,XS,VogueLine,2100,4.7
+F0356,Footwear,Boots,Unisex,Navy,L,ClassicWear,941,4.3
+F0357,Footwear,Formal Shoes,Men,Grey,XL,VogueLine,4236,3.4
+F0358,Accessories,Backpack,Women,White,XL,StreetMode,2217,4.4
+F0359,Clothing,Hoodie,Men,Beige,XXL,FashionHub,3428,3.8
+F0360,Footwear,Sneakers,Men,Black,M,DenimCo,3647,4.5
+F0361,Clothing,Jeans,Men,Blue,L,DenimCo,2680,4.1
+F0362,Footwear,Sneakers,Men,White,M,TrendWear,5589,4.2
+F0363,Footwear,Formal Shoes,Men,Green,L,VogueLine,1392,4.4
+F0364,Accessories,Sunglasses,Unisex,Pink,S,VogueLine,1587,3.3
+F0365,Footwear,Sandals,Women,Blue,XS,FashionHub,4259,3.6
+F0366,Footwear,Formal Shoes,Men,Grey,M,StylePro,6604,4.3
+F0367,Accessories,Handbag,Men,Brown,XS,FashionHub,2694,3.0
+F0368,Footwear,Sandals,Unisex,Beige,M,DenimCo,3441,3.9
+F0369,Accessories,Handbag,Men,Green,M,StylePro,4123,3.6
+F0370,Footwear,Sandals,Women,Brown,XL,StylePro,3368,3.8
+F0371,Footwear,Sandals,Men,Navy,S,FashionHub,6283,4.5
+F0372,Clothing,Skirt,Unisex,Red,L,StreetMode,3803,4.4
+F0373,Footwear,Slippers,Women,Blue,XXL,StreetMode,2681,3.5
+F0374,Clothing,Dress,Women,White,L,DenimCo,2783,3.8
+F0375,Accessories,Wallet,Unisex,Beige,XL,UrbanStyle,3144,4.4
+F0376,Accessories,Handbag,Unisex,White,XS,StylePro,3107,3.3
+F0377,Accessories,Watch,Unisex,Beige,M,VogueLine,1066,3.0
+F0378,Footwear,Running Shoes,Unisex,Pink,XL,StylePro,4350,3.7
+F0379,Footwear,Slippers,Unisex,Pink,S,ClassicWear,900,4.0
+F0380,Footwear,Formal Shoes,Men,White,XXL,FashionHub,3552,3.6
+F0381,Footwear,Running Shoes,Unisex,Brown,M,DenimCo,1498,3.9
+F0382,Accessories,Cap,Women,White,M,UrbanStyle,1141,3.0
+F0383,Footwear,Slippers,Men,Blue,XXL,StylePro,4926,3.3
+F0384,Clothing,Jacket,Unisex,Beige,L,StylePro,3666,3.8
+F0385,Clothing,Jeans,Unisex,Beige,L,UrbanStyle,3419,4.2
+F0386,Clothing,Skirt,Unisex,Beige,L,UrbanStyle,3285,3.4
+F0387,Footwear,Slippers,Men,Navy,XS,FashionHub,3695,3.7
+F0388,Footwear,Sneakers,Women,Brown,XL,ClassicWear,5589,3.8
+F0389,Footwear,Boots,Men,Grey,M,DenimCo,5756,3.3
+F0390,Accessories,Backpack,Women,Navy,XL,TrendWear,1296,3.6
+F0391,Clothing,Hoodie,Men,Blue,M,FashionHub,2491,3.8
+F0392,Accessories,Sunglasses,Unisex,Beige,L,FashionHub,4185,4.3
+F0393,Accessories,Backpack,Men,Pink,S,DenimCo,2565,3.3
+F0394,Footwear,Formal Shoes,Unisex,Black,M,UrbanStyle,4668,3.3
+F0395,Footwear,Boots,Unisex,Brown,L,DenimCo,4103,4.4
+F0396,Footwear,Formal Shoes,Men,White,XL,UrbanStyle,6933,3.4
+F0397,Clothing,Hoodie,Men,Pink,M,FashionHub,3596,3.9
+F0398,Accessories,Wallet,Women,Pink,XL,TrendWear,4890,3.2
+F0399,Accessories,Wallet,Women,Pink,XS,DenimCo,4674,3.4
+F0400,Footwear,Sneakers,Unisex,Red,M,UrbanStyle,4383,3.5
+F0401,Clothing,Skirt,Men,Red,S,ClassicWear,3925,4.4
+F0402,Accessories,Cap,Men,Navy,S,StylePro,1894,4.6
+F0403,Accessories,Belt,Unisex,Green,XL,FashionHub,2850,5.0
+F0404,Footwear,Sandals,Unisex,Green,XL,TrendWear,1809,4.9
+F0405,Footwear,Sneakers,Women,Blue,XXL,FashionHub,2744,3.3
+F0406,Footwear,Running Shoes,Unisex,Beige,L,FashionHub,5429,4.3
+F0407,Accessories,Cap,Women,Brown,XS,TrendWear,3499,4.0
+F0408,Footwear,Slippers,Women,Brown,L,ClassicWear,5466,3.0
+F0409,Accessories,Watch,Unisex,Brown,XXL,ClassicWear,717,4.6
+F0410,Footwear,Running Shoes,Women,Red,L,StreetMode,3343,4.7
+F0411,Footwear,Boots,Unisex,Blue,XL,DenimCo,3514,4.8
+F0412,Clothing,T-Shirt,Men,Brown,XS,TrendWear,3911,3.3
+F0413,Footwear,Sneakers,Women,Red,XXL,FashionHub,6023,3.6
+F0414,Footwear,Sneakers,Unisex,Grey,M,TrendWear,3745,4.3
+F0415,Accessories,Sunglasses,Men,Beige,XXL,StreetMode,2117,3.9
+F0416,Clothing,Shirt,Men,Red,L,TrendWear,942,4.2
+F0417,Accessories,Backpack,Women,Black,XS,ClassicWear,1186,5.0
+F0418,Footwear,Slippers,Men,Brown,XS,StylePro,3837,3.2
+F0419,Clothing,Shirt,Women,Grey,M,FashionHub,1966,4.5
+F0420,Clothing,Jeans,Men,Pink,XL,UrbanStyle,2898,4.3
+F0421,Footwear,Sandals,Unisex,Red,XXL,FashionHub,4071,4.2
+F0422,Footwear,Running Shoes,Men,White,S,TrendWear,5528,4.5
+F0423,Footwear,Formal Shoes,Women,Blue,S,StreetMode,5979,3.2
+F0424,Accessories,Handbag,Unisex,Navy,M,UrbanStyle,2670,3.4
+F0425,Accessories,Handbag,Men,Beige,M,UrbanStyle,2159,4.0
+F0426,Clothing,Trousers,Women,Navy,XS,UrbanStyle,1878,4.9
+F0427,Clothing,Dress,Unisex,Beige,M,FashionHub,3523,3.9
+F0428,Clothing,T-Shirt,Unisex,White,XS,StreetMode,1282,3.1
+F0429,Clothing,Dress,Unisex,Green,XXL,VogueLine,2133,4.4
+F0430,Clothing,Kurta,Unisex,Navy,S,StreetMode,741,3.6
+F0431,Accessories,Sunglasses,Men,Pink,M,VogueLine,740,3.6
+F0432,Footwear,Slippers,Men,Black,S,TrendWear,4258,3.2
+F0433,Accessories,Handbag,Men,Green,XXL,FashionHub,1177,3.0
+F0434,Clothing,T-Shirt,Men,Brown,M,StreetMode,1082,3.7
+F0435,Accessories,Wallet,Women,White,XS,ClassicWear,3716,3.5
+F0436,Clothing,Hoodie,Unisex,Navy,XXL,TrendWear,2431,3.9
+F0437,Footwear,Sneakers,Women,Navy,S,ClassicWear,1987,3.5
+F0438,Clothing,Shirt,Men,Pink,XS,UrbanStyle,3916,4.7
+F0439,Clothing,T-Shirt,Women,Grey,L,FashionHub,1132,4.9
+F0440,Clothing,Kurta,Unisex,Beige,S,ClassicWear,1415,3.8
+F0441,Accessories,Belt,Women,White,XL,ClassicWear,1177,4.0
+F0442,Clothing,Jeans,Men,Pink,XS,VogueLine,681,4.8
+F0443,Footwear,Sandals,Women,White,XL,DenimCo,764,3.7
+F0444,Footwear,Boots,Women,Navy,S,DenimCo,3715,4.2
+F0445,Footwear,Running Shoes,Unisex,Pink,S,FashionHub,751,4.9
+F0446,Clothing,Trousers,Unisex,Grey,XXL,UrbanStyle,1771,3.0
+F0447,Accessories,Cap,Unisex,Green,XS,StylePro,4539,5.0
+F0448,Footwear,Formal Shoes,Men,Blue,XXL,StreetMode,1461,3.1
+F0449,Clothing,Kurta,Women,Grey,L,TrendWear,2777,3.2
+F0450,Clothing,Dress,Men,Navy,XL,UrbanStyle,2180,4.3
+F0451,Clothing,Trousers,Women,Green,M,VogueLine,3269,4.7
+F0452,Footwear,Sandals,Women,Green,S,TrendWear,2359,3.3
+F0453,Accessories,Watch,Men,White,S,DenimCo,4016,3.6
+F0454,Clothing,Kurta,Women,Red,L,StreetMode,2296,3.5
+F0455,Clothing,Shirt,Men,Green,XXL,UrbanStyle,1279,4.7
+F0456,Footwear,Running Shoes,Men,Red,M,VogueLine,4905,3.1
+F0457,Footwear,Sandals,Men,Black,L,DenimCo,5253,4.5
+F0458,Clothing,Shirt,Women,White,S,TrendWear,447,3.1
+F0459,Clothing,Jeans,Men,Beige,M,TrendWear,2784,4.2
+F0460,Clothing,T-Shirt,Men,Red,XXL,DenimCo,3713,3.3
+F0461,Footwear,Sneakers,Men,Brown,XS,FashionHub,5400,3.9
+F0462,Accessories,Cap,Women,Black,L,VogueLine,1614,3.7
+F0463,Clothing,Hoodie,Women,Brown,S,UrbanStyle,2914,4.2
+F0464,Clothing,Hoodie,Women,Beige,XL,DenimCo,648,3.2
+F0465,Footwear,Running Shoes,Women,Red,XXL,StylePro,5866,5.0
+F0466,Accessories,Wallet,Men,Beige,XXL,ClassicWear,4128,4.1
+F0467,Footwear,Sandals,Unisex,Pink,M,VogueLine,2914,3.4
+F0468,Footwear,Boots,Men,Black,M,UrbanStyle,4563,4.1
+F0469,Accessories,Sunglasses,Men,White,S,StylePro,2382,4.1
+F0470,Accessories,Watch,Men,Navy,L,ClassicWear,1622,3.4
+F0471,Accessories,Belt,Unisex,Grey,XL,UrbanStyle,3079,4.9
+F0472,Accessories,Sunglasses,Unisex,Red,L,StreetMode,1637,4.0
+F0473,Clothing,T-Shirt,Men,Navy,S,UrbanStyle,2555,4.0
+F0474,Footwear,Boots,Men,Blue,M,FashionHub,3349,3.1
+F0475,Clothing,Jeans,Men,Pink,M,TrendWear,1929,4.4
+F0476,Accessories,Cap,Unisex,White,M,StreetMode,2841,3.3
+F0477,Clothing,Dress,Unisex,Brown,XXL,ClassicWear,1112,4.4
+F0478,Accessories,Backpack,Unisex,Grey,S,FashionHub,3298,3.6
+F0479,Accessories,Belt,Men,Blue,XXL,UrbanStyle,4891,3.8
+F0480,Accessories,Watch,Men,Navy,M,StylePro,4831,3.2
+F0481,Footwear,Running Shoes,Women,White,S,ClassicWear,3316,3.3
+F0482,Clothing,Jacket,Women,Black,M,StylePro,1421,4.4
+F0483,Footwear,Sandals,Men,Black,XS,VogueLine,4288,4.5
+F0484,Clothing,Dress,Women,Beige,M,VogueLine,814,4.7
+F0485,Accessories,Backpack,Unisex,Red,S,DenimCo,802,4.6
+F0486,Clothing,Hoodie,Men,Grey,M,TrendWear,702,3.7
+F0487,Footwear,Running Shoes,Unisex,White,XL,TrendWear,3467,4.2
+F0488,Accessories,Cap,Unisex,Black,L,FashionHub,3755,3.3
+F0489,Clothing,Jacket,Men,Red,L,StreetMode,3104,3.6
+F0490,Clothing,Shirt,Men,Beige,XL,DenimCo,1028,3.1
+F0491,Clothing,Dress,Men,Green,XXL,DenimCo,1216,3.2
+F0492,Clothing,Jeans,Unisex,Green,XS,DenimCo,3855,3.2
+F0493,Footwear,Formal Shoes,Women,Green,XS,VogueLine,2213,3.7
+F0494,Footwear,Sandals,Men,Brown,XS,StreetMode,4301,3.9
+F0495,Clothing,Hoodie,Unisex,Black,S,TrendWear,750,4.3
+F0496,Accessories,Cap,Unisex,Red,XL,UrbanStyle,3370,4.6
+F0497,Footwear,Boots,Unisex,Brown,XL,StylePro,4600,3.6
+F0498,Footwear,Slippers,Men,Pink,XL,FashionHub,1684,4.9
+F0499,Footwear,Running Shoes,Men,Red,S,FashionHub,1048,3.8
+F0500,Accessories,Cap,Men,Blue,XL,StreetMode,2818,4.8
+F0501,Clothing,Shirt,Women,Pink,L,ClassicWear,3907,3.6
+F0502,Footwear,Sneakers,Unisex,Navy,XL,VogueLine,1620,3.8
+F0503,Clothing,Shirt,Men,Navy,XS,StreetMode,3952,4.1
+F0504,Footwear,Formal Shoes,Women,Beige,XXL,DenimCo,5385,4.2
+F0505,Clothing,Jeans,Women,Beige,S,VogueLine,557,3.8
+F0506,Footwear,Slippers,Men,Black,XXL,DenimCo,2899,4.8
+F0507,Clothing,Jacket,Women,Green,M,DenimCo,3914,4.4
+F0508,Clothing,Trousers,Men,Green,XXL,DenimCo,3569,4.7
+F0509,Footwear,Slippers,Women,Navy,XXL,TrendWear,2238,3.9
+F0510,Footwear,Slippers,Women,Pink,M,UrbanStyle,4920,4.6
+F0511,Clothing,Hoodie,Unisex,Pink,L,FashionHub,3595,4.7
+F0512,Accessories,Watch,Men,Red,S,UrbanStyle,2242,3.1
+F0513,Clothing,Jacket,Unisex,Red,M,ClassicWear,3772,3.9
+F0514,Footwear,Slippers,Men,Black,S,ClassicWear,4703,4.2
+F0515,Clothing,Skirt,Unisex,Pink,M,ClassicWear,1068,4.7
+F0516,Footwear,Slippers,Unisex,White,M,UrbanStyle,3865,3.1
+F0517,Accessories,Wallet,Men,Red,XXL,StylePro,1892,3.5
+F0518,Footwear,Boots,Men,Black,L,FashionHub,6002,3.3
+F0519,Clothing,Trousers,Women,Navy,M,StreetMode,2134,4.8
+F0520,Footwear,Formal Shoes,Women,Red,L,StreetMode,6246,4.0
+F0521,Accessories,Cap,Unisex,White,XS,ClassicWear,4798,4.3
+F0522,Accessories,Belt,Women,White,L,TrendWear,2953,5.0
+F0523,Accessories,Belt,Women,Green,XXL,StreetMode,1742,3.3
+F0524,Clothing,T-Shirt,Unisex,Beige,XXL,ClassicWear,3187,3.3
+F0525,Clothing,Skirt,Women,Green,L,VogueLine,1989,4.5
+F0526,Accessories,Backpack,Unisex,Red,M,StylePro,4578,4.3
+F0527,Footwear,Slippers,Women,Pink,M,FashionHub,6086,4.8
+F0528,Clothing,Hoodie,Men,Brown,S,StreetMode,3369,4.6
+F0529,Clothing,Jacket,Unisex,White,S,ClassicWear,1313,4.5
+F0530,Footwear,Formal Shoes,Women,Grey,M,StreetMode,4498,4.7
+F0531,Footwear,Sneakers,Unisex,Navy,XL,TrendWear,4567,4.8
+F0532,Accessories,Watch,Unisex,Beige,XL,StreetMode,3583,3.1
+F0533,Clothing,Jeans,Men,Grey,L,DenimCo,985,3.6
+F0534,Accessories,Sunglasses,Men,Brown,M,FashionHub,2766,4.3
+F0535,Clothing,Skirt,Women,Red,S,FashionHub,2404,4.6
+F0536,Clothing,Jeans,Unisex,Beige,XXL,VogueLine,2051,3.9
+F0537,Footwear,Formal Shoes,Men,Black,XL,StylePro,6684,3.7
+F0538,Clothing,Jacket,Unisex,Red,XS,UrbanStyle,2965,4.5
+F0539,Clothing,Jacket,Women,Blue,XS,VogueLine,2460,4.2
+F0540,Clothing,Shirt,Men,Green,M,DenimCo,3380,4.0
+F0541,Accessories,Belt,Women,Blue,M,DenimCo,3141,4.5
+F0542,Clothing,Dress,Men,Red,S,FashionHub,1264,4.5
+F0543,Accessories,Handbag,Men,White,M,UrbanStyle,3272,4.8
+F0544,Footwear,Boots,Unisex,Black,XL,UrbanStyle,6121,3.2
+F0545,Clothing,T-Shirt,Unisex,White,L,DenimCo,1956,3.2
+F0546,Footwear,Formal Shoes,Unisex,Blue,S,UrbanStyle,3165,3.8
+F0547,Clothing,Kurta,Women,Navy,XL,FashionHub,2114,4.7
+F0548,Clothing,Kurta,Unisex,Navy,XS,StreetMode,865,4.6
+F0549,Footwear,Running Shoes,Unisex,Red,M,StylePro,3631,4.4
+F0550,Footwear,Running Shoes,Men,Pink,L,StylePro,6336,4.9
+F0551,Footwear,Running Shoes,Men,Black,XXL,TrendWear,1603,4.7
+F0552,Accessories,Cap,Men,White,XL,TrendWear,1028,4.8
+F0553,Accessories,Sunglasses,Women,Green,M,DenimCo,609,3.2
+F0554,Clothing,T-Shirt,Women,Grey,XXL,ClassicWear,2143,4.5
+F0555,Clothing,T-Shirt,Men,Blue,XXL,FashionHub,1745,3.7
+F0556,Footwear,Boots,Women,White,M,ClassicWear,2197,3.2
+F0557,Footwear,Formal Shoes,Women,Beige,XXL,DenimCo,4153,4.3
+F0558,Clothing,Shirt,Men,Black,S,TrendWear,2103,4.8
+F0559,Footwear,Boots,Unisex,Brown,S,VogueLine,3636,4.2
+F0560,Accessories,Wallet,Unisex,Blue,L,DenimCo,1124,4.8
+F0561,Footwear,Sneakers,Men,Green,XXL,ClassicWear,800,4.4
+F0562,Accessories,Handbag,Unisex,Navy,XXL,StylePro,2970,4.0
+F0563,Accessories,Backpack,Unisex,White,L,StylePro,4146,3.7
+F0564,Accessories,Backpack,Women,Blue,XL,UrbanStyle,294,4.3
+F0565,Clothing,Kurta,Women,Brown,S,TrendWear,3476,4.0
+F0566,Clothing,Jacket,Women,Black,XL,StylePro,2653,4.3
+F0567,Footwear,Running Shoes,Men,Brown,L,DenimCo,1420,4.7
+F0568,Footwear,Sandals,Men,Brown,XXL,UrbanStyle,1539,3.8
+F0569,Clothing,Kurta,Unisex,Black,XS,StreetMode,2481,4.1
+F0570,Accessories,Backpack,Women,Grey,M,UrbanStyle,2025,4.7
+F0571,Footwear,Boots,Unisex,Navy,L,ClassicWear,6563,3.9
+F0572,Clothing,Trousers,Men,Grey,M,StreetMode,2642,4.0
+F0573,Accessories,Watch,Men,Blue,L,FashionHub,3551,3.2
+F0574,Accessories,Sunglasses,Men,White,L,StylePro,3943,4.6
+F0575,Clothing,Jacket,Men,Beige,XS,TrendWear,3561,4.8
+F0576,Footwear,Slippers,Unisex,Pink,S,DenimCo,734,4.1
+F0577,Clothing,Kurta,Women,Navy,L,FashionHub,3232,4.2
+F0578,Accessories,Wallet,Men,White,L,ClassicWear,4328,4.8
+F0579,Footwear,Boots,Unisex,Red,M,VogueLine,3507,4.9
+F0580,Footwear,Running Shoes,Men,Beige,XL,StreetMode,6445,4.1
+F0581,Footwear,Slippers,Unisex,Pink,XXL,StylePro,2344,3.4
+F0582,Accessories,Belt,Unisex,Grey,XXL,FashionHub,1655,4.0
+F0583,Accessories,Backpack,Women,White,M,DenimCo,4973,4.1
+F0584,Accessories,Backpack,Women,Pink,M,VogueLine,303,4.0
+F0585,Clothing,Dress,Men,Black,XXL,UrbanStyle,1217,3.5
+F0586,Clothing,Hoodie,Unisex,Green,S,UrbanStyle,3227,4.6
+F0587,Clothing,Kurta,Men,Grey,L,TrendWear,2922,4.7
+F0588,Accessories,Handbag,Men,Pink,L,StylePro,4384,4.6
+F0589,Accessories,Belt,Unisex,Black,L,VogueLine,3611,4.9
+F0590,Accessories,Belt,Unisex,Black,XS,StreetMode,1862,4.2
+F0591,Footwear,Running Shoes,Unisex,Grey,XL,StylePro,6637,4.9
+F0592,Footwear,Formal Shoes,Men,White,S,FashionHub,6720,4.0
+F0593,Footwear,Sneakers,Women,Green,XL,StreetMode,1764,3.3
+F0594,Footwear,Sneakers,Women,Brown,XXL,FashionHub,1026,3.3
+F0595,Footwear,Boots,Men,Navy,XXL,StreetMode,4717,4.6
+F0596,Accessories,Belt,Men,Grey,XL,StylePro,1705,4.0
+F0597,Accessories,Sunglasses,Women,Pink,XL,VogueLine,952,3.7
+F0598,Clothing,Jacket,Women,Grey,M,StylePro,3481,4.2
+F0599,Footwear,Boots,Unisex,Black,XS,ClassicWear,4349,3.5
+F0600,Accessories,Handbag,Unisex,Red,XS,ClassicWear,3323,4.8
+F0601,Clothing,Dress,Women,Pink,XXL,StreetMode,500,4.8
+F0602,Footwear,Boots,Unisex,Brown,L,UrbanStyle,3127,4.8
+F0603,Clothing,Jacket,Unisex,White,XS,FashionHub,3566,4.1
+F0604,Clothing,Shirt,Men,Red,XXL,VogueLine,3821,3.2
+F0605,Accessories,Wallet,Unisex,Beige,XXL,TrendWear,1458,3.0
+F0606,Accessories,Belt,Men,White,XS,UrbanStyle,1657,4.6
+F0607,Accessories,Watch,Unisex,Red,M,VogueLine,3377,3.9
+F0608,Footwear,Formal Shoes,Women,Black,L,TrendWear,5080,3.0
+F0609,Accessories,Handbag,Men,Navy,XS,TrendWear,3129,4.9
+F0610,Clothing,Hoodie,Unisex,Green,XL,TrendWear,1552,4.5
+F0611,Footwear,Formal Shoes,Women,Black,L,FashionHub,5069,3.4
+F0612,Accessories,Cap,Unisex,Green,XXL,FashionHub,2640,4.4
+F0613,Accessories,Backpack,Women,Black,XL,FashionHub,1208,3.1
+F0614,Accessories,Handbag,Women,Pink,XL,TrendWear,2695,3.4
+F0615,Accessories,Backpack,Women,Red,L,FashionHub,1517,3.4
+F0616,Accessories,Wallet,Women,Red,XS,FashionHub,4846,4.7
+F0617,Accessories,Cap,Unisex,Pink,XS,StreetMode,750,3.5
+F0618,Clothing,Skirt,Women,Grey,S,StylePro,808,3.6
+F0619,Clothing,Trousers,Women,Brown,L,ClassicWear,2923,4.3
+F0620,Accessories,Handbag,Men,Navy,XL,ClassicWear,2790,4.9
+F0621,Clothing,T-Shirt,Women,Red,S,VogueLine,1532,4.7
+F0622,Clothing,Jacket,Women,Brown,L,ClassicWear,3572,3.6
+F0623,Accessories,Watch,Men,Navy,XS,StreetMode,1345,4.8
+F0624,Clothing,Hoodie,Unisex,White,XXL,TrendWear,475,4.7
+F0625,Accessories,Watch,Unisex,Navy,L,StylePro,499,4.1
+F0626,Accessories,Handbag,Women,Blue,M,VogueLine,2028,4.8
+F0627,Accessories,Backpack,Women,Blue,L,TrendWear,3449,3.7
+F0628,Clothing,Trousers,Unisex,Blue,XL,FashionHub,2226,3.3
+F0629,Accessories,Handbag,Unisex,Blue,XXL,DenimCo,3138,3.1
+F0630,Footwear,Running Shoes,Men,Green,M,StylePro,1049,4.3
+F0631,Accessories,Wallet,Women,Beige,L,DenimCo,579,3.1
+F0632,Accessories,Belt,Men,Pink,XXL,StreetMode,2356,4.2
+F0633,Accessories,Sunglasses,Women,Beige,M,TrendWear,4431,3.5
+F0634,Clothing,Kurta,Women,Grey,M,DenimCo,3645,4.0
+F0635,Accessories,Watch,Unisex,Blue,L,FashionHub,2083,3.2
+F0636,Accessories,Belt,Men,Blue,S,FashionHub,3166,4.2
+F0637,Clothing,Trousers,Women,Grey,XXL,TrendWear,2371,4.4
+F0638,Footwear,Running Shoes,Unisex,Blue,XXL,VogueLine,882,3.5
+F0639,Clothing,Jeans,Men,Pink,XS,FashionHub,628,3.3
+F0640,Clothing,Kurta,Women,Navy,XL,UrbanStyle,3997,4.4
+F0641,Accessories,Wallet,Women,White,S,DenimCo,4060,4.7
+F0642,Clothing,Trousers,Women,Navy,S,FashionHub,2951,4.3
+F0643,Footwear,Running Shoes,Unisex,Grey,L,TrendWear,2581,3.8
+F0644,Clothing,Shirt,Men,Red,XL,VogueLine,3784,3.3
+F0645,Clothing,Jeans,Women,Navy,XL,UrbanStyle,3994,4.6
+F0646,Accessories,Wallet,Men,White,L,FashionHub,4616,4.7
+F0647,Accessories,Backpack,Women,Pink,L,ClassicWear,554,4.4
+F0648,Footwear,Running Shoes,Women,Beige,M,TrendWear,4184,3.3
+F0649,Footwear,Running Shoes,Men,Green,XL,VogueLine,2810,3.4
+F0650,Accessories,Backpack,Men,Navy,XL,TrendWear,4456,3.0
+F0651,Accessories,Sunglasses,Unisex,Grey,L,ClassicWear,1072,3.3
+F0652,Accessories,Handbag,Women,Green,XL,VogueLine,4824,3.7
+F0653,Footwear,Slippers,Women,Red,L,DenimCo,2163,3.7
+F0654,Accessories,Cap,Women,Green,XL,ClassicWear,3460,4.5
+F0655,Accessories,Watch,Unisex,Red,L,FashionHub,1020,3.4
+F0656,Footwear,Sandals,Unisex,Navy,XXL,UrbanStyle,2015,3.8
+F0657,Accessories,Watch,Men,Blue,L,VogueLine,921,3.1
+F0658,Clothing,Jacket,Men,Navy,XS,VogueLine,2040,4.2
+F0659,Accessories,Belt,Unisex,Navy,XS,FashionHub,4248,3.9
+F0660,Clothing,Kurta,Women,Red,XS,StylePro,2918,3.3
+F0661,Clothing,Jacket,Men,Black,S,TrendWear,1529,4.6
+F0662,Footwear,Slippers,Women,Beige,XL,StylePro,4940,3.0
+F0663,Accessories,Watch,Men,Pink,M,ClassicWear,3045,4.9
+F0664,Footwear,Running Shoes,Unisex,Red,L,VogueLine,5408,3.0
+F0665,Clothing,Dress,Unisex,White,XL,TrendWear,2459,3.6
+F0666,Clothing,Kurta,Women,Pink,XL,StreetMode,3242,3.9
+F0667,Footwear,Boots,Women,Red,M,DenimCo,6282,3.9
+F0668,Accessories,Wallet,Men,Brown,XS,StreetMode,752,3.8
+F0669,Clothing,Trousers,Women,Beige,M,UrbanStyle,3269,4.7
+F0670,Clothing,Hoodie,Men,Beige,XXL,ClassicWear,710,4.1
+F0671,Clothing,Skirt,Women,Grey,S,StreetMode,1147,4.9
+F0672,Accessories,Sunglasses,Women,Red,S,StylePro,2373,3.4
+F0673,Clothing,Trousers,Unisex,Grey,S,TrendWear,890,4.8
+F0674,Accessories,Backpack,Women,Navy,XS,UrbanStyle,4149,3.7
+F0675,Footwear,Formal Shoes,Unisex,Green,L,FashionHub,6959,4.8
+F0676,Footwear,Formal Shoes,Men,Navy,S,UrbanStyle,5005,4.6
+F0677,Footwear,Boots,Men,Pink,M,VogueLine,6321,4.6
+F0678,Footwear,Sneakers,Unisex,Pink,L,ClassicWear,6345,3.0
+F0679,Accessories,Sunglasses,Women,Navy,XS,ClassicWear,3161,4.2
+F0680,Footwear,Running Shoes,Unisex,Green,S,StreetMode,4560,4.9
+F0681,Footwear,Sandals,Men,Brown,L,StylePro,4132,4.4
+F0682,Footwear,Sandals,Women,Green,L,FashionHub,5379,3.3
+F0683,Accessories,Backpack,Men,White,XXL,StreetMode,2130,4.1
+F0684,Footwear,Running Shoes,Men,Blue,L,UrbanStyle,2145,3.8
+F0685,Clothing,Kurta,Unisex,Grey,L,StreetMode,1426,4.1
+F0686,Accessories,Watch,Women,White,XXL,FashionHub,690,3.4
+F0687,Footwear,Formal Shoes,Unisex,White,L,ClassicWear,2827,3.7
+F0688,Accessories,Handbag,Women,Grey,XS,VogueLine,1192,3.7
+F0689,Accessories,Handbag,Men,Navy,XL,FashionHub,2530,3.7
+F0690,Accessories,Handbag,Women,Brown,XS,VogueLine,2546,3.9
+F0691,Clothing,Jeans,Unisex,Grey,L,VogueLine,3876,4.8
+F0692,Clothing,Jeans,Women,Red,M,ClassicWear,3073,3.6
+F0693,Footwear,Boots,Unisex,Beige,M,DenimCo,3674,4.5
+F0694,Accessories,Cap,Women,Blue,S,UrbanStyle,1223,4.5
+F0695,Accessories,Belt,Unisex,White,S,FashionHub,3451,3.2
+F0696,Clothing,Skirt,Unisex,Black,XS,VogueLine,2545,4.5
+F0697,Clothing,Shirt,Women,Navy,S,TrendWear,3081,4.9
+F0698,Footwear,Sandals,Men,Red,XXL,StreetMode,4329,4.3
+F0699,Clothing,Kurta,Men,Black,XS,ClassicWear,3923,4.8
+F0700,Footwear,Formal Shoes,Unisex,Green,XL,DenimCo,1805,4.9
+F0701,Accessories,Handbag,Men,Navy,XL,DenimCo,4819,3.9
+F0702,Accessories,Backpack,Unisex,Green,M,DenimCo,4619,3.5
+F0703,Clothing,Skirt,Women,Grey,L,StreetMode,1036,3.6
+F0704,Clothing,Kurta,Men,Grey,M,DenimCo,2590,3.0
+F0705,Footwear,Formal Shoes,Women,Black,L,StreetMode,5589,3.5
+F0706,Clothing,Kurta,Women,Red,L,VogueLine,2015,3.5
+F0707,Accessories,Backpack,Unisex,Beige,L,StylePro,2353,3.2
+F0708,Accessories,Sunglasses,Unisex,Navy,XXL,StreetMode,2531,4.3
+F0709,Accessories,Wallet,Women,Beige,S,TrendWear,1693,3.3
+F0710,Clothing,Skirt,Unisex,Brown,M,DenimCo,1168,3.6
+F0711,Clothing,T-Shirt,Unisex,Black,S,TrendWear,1554,3.5
+F0712,Accessories,Cap,Unisex,Black,S,TrendWear,1433,3.0
+F0713,Clothing,Jacket,Women,Green,L,ClassicWear,2298,4.4
+F0714,Clothing,Jacket,Men,Blue,XS,StreetMode,3576,3.8
+F0715,Accessories,Cap,Men,Red,M,VogueLine,302,3.2
+F0716,Accessories,Sunglasses,Women,Brown,S,UrbanStyle,1830,3.9
+F0717,Clothing,Kurta,Unisex,Red,L,VogueLine,3190,4.9
+F0718,Footwear,Running Shoes,Unisex,Black,XXL,TrendWear,2774,4.0
+F0719,Footwear,Running Shoes,Women,Black,XXL,StylePro,1624,3.5
+F0720,Footwear,Sandals,Men,Blue,M,TrendWear,3941,4.6
+F0721,Clothing,T-Shirt,Unisex,Brown,XXL,FashionHub,1920,4.5
+F0722,Clothing,Jeans,Women,White,XXL,ClassicWear,3510,4.3
+F0723,Clothing,Jacket,Unisex,Blue,XXL,TrendWear,914,4.0
+F0724,Footwear,Boots,Unisex,Grey,L,StylePro,873,4.4
+F0725,Footwear,Slippers,Men,Green,XS,DenimCo,6487,3.9
+F0726,Footwear,Boots,Unisex,Brown,S,FashionHub,5152,3.7
+F0727,Accessories,Cap,Women,Navy,XL,FashionHub,763,4.1
+F0728,Footwear,Sandals,Women,Pink,M,DenimCo,704,4.6
+F0729,Accessories,Cap,Unisex,Blue,XS,ClassicWear,2155,3.6
+F0730,Clothing,Kurta,Women,Red,XL,DenimCo,3535,4.1
+F0731,Accessories,Belt,Women,Beige,XXL,ClassicWear,1103,3.2
+F0732,Accessories,Watch,Men,Blue,S,UrbanStyle,1854,3.2
+F0733,Clothing,Shirt,Men,Navy,XXL,VogueLine,3093,4.0
+F0734,Accessories,Backpack,Unisex,Green,XS,ClassicWear,2007,4.2
+F0735,Clothing,T-Shirt,Men,Brown,XS,DenimCo,3679,4.3
+F0736,Footwear,Boots,Unisex,Beige,M,UrbanStyle,5752,3.5
+F0737,Clothing,Shirt,Women,White,S,TrendWear,813,4.5
+F0738,Accessories,Cap,Men,Red,XL,StylePro,4868,4.3
+F0739,Clothing,Kurta,Unisex,Pink,L,TrendWear,3537,4.3
+F0740,Footwear,Slippers,Women,Beige,XS,FashionHub,2176,4.1
+F0741,Accessories,Belt,Unisex,Blue,XL,DenimCo,3085,4.8
+F0742,Accessories,Belt,Women,Beige,XXL,VogueLine,2848,4.2
+F0743,Accessories,Handbag,Men,Beige,XL,StreetMode,3148,4.9
+F0744,Footwear,Formal Shoes,Men,Black,M,UrbanStyle,4939,3.3
+F0745,Footwear,Sneakers,Women,Red,S,ClassicWear,876,4.5
+F0746,Accessories,Wallet,Women,Pink,XL,FashionHub,971,3.1
+F0747,Footwear,Running Shoes,Men,Green,M,StylePro,2607,3.5
+F0748,Footwear,Sneakers,Unisex,Beige,XL,StylePro,6714,3.2
+F0749,Footwear,Formal Shoes,Men,Brown,XXL,TrendWear,5575,4.3
+F0750,Clothing,Dress,Men,Black,M,ClassicWear,3746,3.9
+F0751,Clothing,Trousers,Unisex,Navy,XS,VogueLine,620,3.6
+F0752,Clothing,Jacket,Unisex,Navy,S,ClassicWear,2456,4.4
+F0753,Clothing,T-Shirt,Unisex,Beige,L,TrendWear,1308,3.9
+F0754,Footwear,Running Shoes,Men,Grey,XS,DenimCo,5380,4.5
+F0755,Accessories,Cap,Women,White,L,VogueLine,1267,4.5
+F0756,Footwear,Boots,Men,Brown,L,StylePro,5296,4.2
+F0757,Accessories,Handbag,Men,Red,XS,StreetMode,3722,3.6
+F0758,Accessories,Watch,Men,Beige,L,ClassicWear,3052,3.4
+F0759,Footwear,Boots,Unisex,Black,M,FashionHub,3563,4.2
+F0760,Footwear,Boots,Men,Brown,XS,StylePro,2334,4.4
+F0761,Clothing,Shirt,Men,Black,S,FashionHub,3957,4.7
+F0762,Footwear,Sneakers,Women,White,M,DenimCo,4558,3.0
+F0763,Clothing,Kurta,Men,Red,XL,StreetMode,2646,4.0
+F0764,Accessories,Sunglasses,Unisex,Black,L,UrbanStyle,2291,3.3
+F0765,Footwear,Running Shoes,Unisex,Navy,M,UrbanStyle,4507,4.3
+F0766,Clothing,Shirt,Women,Green,XXL,ClassicWear,3939,3.2
+F0767,Footwear,Slippers,Women,Red,L,TrendWear,3283,4.0
+F0768,Accessories,Handbag,Men,Blue,S,DenimCo,4792,4.9
+F0769,Clothing,T-Shirt,Men,Pink,M,ClassicWear,2405,3.8
+F0770,Clothing,T-Shirt,Women,Grey,M,StreetMode,1366,5.0
+F0771,Accessories,Belt,Men,Green,L,UrbanStyle,4745,4.9
+F0772,Clothing,Jeans,Women,Beige,XXL,FashionHub,758,4.5
+F0773,Accessories,Backpack,Unisex,Red,L,StylePro,4892,3.3
+F0774,Footwear,Boots,Women,Brown,XL,FashionHub,2392,4.3
+F0775,Accessories,Handbag,Unisex,Red,S,StreetMode,4490,4.8
+F0776,Footwear,Running Shoes,Unisex,Navy,S,ClassicWear,1254,4.1
+F0777,Accessories,Watch,Men,Grey,S,UrbanStyle,2809,4.8
+F0778,Footwear,Formal Shoes,Women,Brown,XXL,StreetMode,1943,4.6
+F0779,Clothing,Jeans,Men,Black,XL,StreetMode,2879,4.1
+F0780,Clothing,Trousers,Men,Black,M,TrendWear,3217,4.6
+F0781,Clothing,Kurta,Unisex,Brown,XXL,ClassicWear,1152,4.7
+F0782,Footwear,Formal Shoes,Men,Blue,S,StylePro,963,3.8
+F0783,Clothing,Hoodie,Women,Red,XXL,StylePro,3502,3.4
+F0784,Clothing,Skirt,Unisex,Brown,XXL,ClassicWear,3949,3.9
+F0785,Clothing,Dress,Women,Black,XL,VogueLine,3348,3.6
+F0786,Accessories,Backpack,Unisex,Navy,XL,UrbanStyle,4464,3.2
+F0787,Footwear,Sneakers,Men,Pink,XL,VogueLine,6721,3.1
+F0788,Footwear,Boots,Unisex,Black,S,StreetMode,4299,3.8
+F0789,Footwear,Sandals,Women,Blue,L,StreetMode,5721,4.8
+F0790,Accessories,Handbag,Men,Brown,XXL,DenimCo,939,4.4
+F0791,Clothing,Jeans,Unisex,Pink,S,VogueLine,2092,3.6
+F0792,Clothing,Jeans,Women,Navy,XXL,StylePro,2261,3.2
+F0793,Footwear,Slippers,Unisex,Blue,XXL,TrendWear,1446,3.2
+F0794,Footwear,Slippers,Women,White,XL,VogueLine,6653,4.6
+F0795,Accessories,Handbag,Men,Beige,XL,VogueLine,558,4.5
+F0796,Footwear,Boots,Unisex,Blue,S,FashionHub,2164,4.5
+F0797,Clothing,Dress,Women,Green,XXL,DenimCo,1581,4.3
+F0798,Clothing,Jeans,Men,Black,XL,StreetMode,449,3.9
+F0799,Footwear,Boots,Men,Navy,L,StylePro,2475,4.2
+F0800,Footwear,Formal Shoes,Women,Brown,XS,UrbanStyle,2703,4.8
+F0801,Footwear,Boots,Unisex,Pink,S,UrbanStyle,2213,3.3
+F0802,Accessories,Belt,Men,Blue,XS,StreetMode,2911,4.8
+F0803,Clothing,Shirt,Women,Blue,S,StreetMode,2902,4.3
+F0804,Accessories,Handbag,Unisex,Pink,S,DenimCo,4941,3.7
+F0805,Clothing,Shirt,Women,Grey,M,VogueLine,3758,3.1
+F0806,Footwear,Boots,Men,Green,L,FashionHub,1698,4.4
+F0807,Footwear,Sandals,Unisex,Beige,XL,StylePro,6399,3.4
+F0808,Clothing,Shirt,Unisex,Pink,XS,DenimCo,3364,4.4
+F0809,Accessories,Belt,Women,Navy,M,StreetMode,4503,4.2
+F0810,Accessories,Belt,Men,Navy,XL,DenimCo,4456,4.5
+F0811,Footwear,Formal Shoes,Men,Navy,S,StreetMode,2284,3.0
+F0812,Clothing,Skirt,Unisex,White,XXL,StylePro,3674,4.2
+F0813,Footwear,Formal Shoes,Men,Grey,M,StylePro,791,4.3
+F0814,Accessories,Belt,Women,White,M,StreetMode,4349,4.1
+F0815,Clothing,Shirt,Unisex,Grey,M,VogueLine,3366,4.1
+F0816,Clothing,Jeans,Men,Grey,M,DenimCo,2342,4.6
+F0817,Accessories,Sunglasses,Women,Blue,XXL,DenimCo,4597,4.8
+F0818,Footwear,Formal Shoes,Unisex,Black,XL,StreetMode,5327,4.4
+F0819,Footwear,Boots,Unisex,Black,S,ClassicWear,3595,3.1
+F0820,Clothing,Hoodie,Men,Grey,L,FashionHub,2737,4.2
+F0821,Clothing,Shirt,Women,Grey,XXL,UrbanStyle,1511,3.8
+F0822,Footwear,Running Shoes,Women,Brown,M,StylePro,5000,3.6
+F0823,Clothing,Jacket,Men,Red,XS,DenimCo,2471,3.0
+F0824,Footwear,Boots,Men,Red,M,DenimCo,6699,4.7
+F0825,Footwear,Sandals,Men,White,XL,FashionHub,2379,4.4
+F0826,Footwear,Formal Shoes,Unisex,Pink,XS,UrbanStyle,3246,4.9
+F0827,Accessories,Wallet,Unisex,White,M,DenimCo,576,3.2
+F0828,Accessories,Backpack,Women,Black,XL,StreetMode,1918,3.6
+F0829,Clothing,Hoodie,Women,Pink,M,DenimCo,3147,3.2
+F0830,Clothing,Jeans,Women,White,XS,TrendWear,1245,4.1
+F0831,Accessories,Belt,Women,Blue,XXL,StreetMode,4901,3.5
+F0832,Clothing,Hoodie,Unisex,Grey,XL,DenimCo,606,3.3
+F0833,Footwear,Slippers,Men,White,L,UrbanStyle,1404,3.9
+F0834,Clothing,Skirt,Unisex,Grey,M,ClassicWear,3747,3.4
+F0835,Accessories,Wallet,Unisex,White,L,FashionHub,960,4.6
+F0836,Accessories,Cap,Men,Brown,M,DenimCo,4053,3.5
+F0837,Clothing,Jeans,Unisex,Green,M,VogueLine,1150,4.4
+F0838,Accessories,Belt,Women,Brown,L,UrbanStyle,734,4.0
+F0839,Footwear,Formal Shoes,Women,Blue,M,ClassicWear,5650,4.1
+F0840,Accessories,Watch,Women,White,M,TrendWear,2673,4.1
+F0841,Footwear,Boots,Women,Red,XL,StylePro,5187,3.3
+F0842,Footwear,Formal Shoes,Men,Grey,S,VogueLine,4265,4.1
+F0843,Footwear,Boots,Unisex,Red,S,TrendWear,6755,4.9
+F0844,Accessories,Wallet,Women,White,XL,DenimCo,2864,4.1
+F0845,Footwear,Running Shoes,Women,Beige,XS,TrendWear,6314,4.6
+F0846,Footwear,Sandals,Women,Black,XS,StylePro,1837,4.8
+F0847,Accessories,Wallet,Men,Blue,XXL,FashionHub,3909,4.1
+F0848,Footwear,Boots,Unisex,Brown,S,StylePro,6281,4.8
+F0849,Footwear,Boots,Unisex,Green,L,ClassicWear,1430,4.2
+F0850,Accessories,Handbag,Women,Blue,M,UrbanStyle,3223,4.8
+F0851,Clothing,T-Shirt,Unisex,Pink,M,TrendWear,3926,3.6
+F0852,Clothing,Trousers,Women,Navy,L,ClassicWear,3314,3.8
+F0853,Footwear,Formal Shoes,Unisex,Red,XXL,FashionHub,4589,3.3
+F0854,Accessories,Cap,Women,Beige,S,StreetMode,1227,3.3
+F0855,Clothing,T-Shirt,Men,Brown,XXL,VogueLine,955,3.2
+F0856,Accessories,Wallet,Women,Brown,XXL,VogueLine,1671,3.9
+F0857,Footwear,Boots,Women,Beige,M,StylePro,2221,3.8
+F0858,Clothing,Skirt,Unisex,Red,XXL,StreetMode,2081,4.9
+F0859,Accessories,Belt,Men,Black,XL,DenimCo,3218,3.2
+F0860,Footwear,Slippers,Men,Blue,XXL,StreetMode,4507,4.0
+F0861,Accessories,Handbag,Men,Red,L,TrendWear,4616,4.6
+F0862,Footwear,Boots,Men,Grey,XL,UrbanStyle,4539,3.9
+F0863,Footwear,Boots,Unisex,Grey,L,ClassicWear,3112,3.6
+F0864,Clothing,Hoodie,Unisex,Navy,M,UrbanStyle,2976,3.9
+F0865,Clothing,T-Shirt,Unisex,Green,XXL,UrbanStyle,1573,4.0
+F0866,Clothing,Kurta,Men,Green,M,FashionHub,2921,3.6
+F0867,Footwear,Sneakers,Unisex,White,XL,FashionHub,5546,4.5
+F0868,Accessories,Cap,Women,Blue,M,StylePro,4171,3.4
+F0869,Accessories,Wallet,Men,Grey,XS,FashionHub,1461,4.7
+F0870,Footwear,Formal Shoes,Men,Brown,XXL,FashionHub,2426,4.2
+F0871,Footwear,Sneakers,Unisex,Green,XS,UrbanStyle,2071,3.9
+F0872,Footwear,Sandals,Women,Pink,S,VogueLine,6298,4.4
+F0873,Footwear,Sandals,Men,Pink,L,UrbanStyle,3064,4.9
+F0874,Footwear,Formal Shoes,Unisex,Grey,XL,UrbanStyle,1496,4.8
+F0875,Accessories,Belt,Women,Navy,XXL,StreetMode,2943,3.5
+F0876,Clothing,Hoodie,Unisex,Navy,L,DenimCo,3565,4.4
+F0877,Clothing,Trousers,Unisex,Grey,XXL,FashionHub,1682,4.1
+F0878,Accessories,Watch,Men,Black,L,TrendWear,4501,3.2
+F0879,Footwear,Sandals,Men,Green,M,StylePro,977,3.0
+F0880,Clothing,T-Shirt,Unisex,Red,XL,TrendWear,3299,4.9
+F0881,Clothing,Jeans,Women,Navy,S,TrendWear,3248,3.4
+F0882,Footwear,Formal Shoes,Unisex,White,XXL,DenimCo,2963,4.5
+F0883,Accessories,Backpack,Women,Green,S,TrendWear,2470,4.6
+F0884,Footwear,Formal Shoes,Women,Black,M,StreetMode,2156,3.9
+F0885,Footwear,Running Shoes,Unisex,Beige,S,DenimCo,1587,3.3
+F0886,Footwear,Running Shoes,Unisex,White,L,StreetMode,1545,3.1
+F0887,Clothing,Hoodie,Women,Black,L,FashionHub,3073,4.3
+F0888,Clothing,Dress,Women,Blue,XXL,ClassicWear,2001,4.1
+F0889,Accessories,Backpack,Women,Brown,L,VogueLine,773,4.1
+F0890,Clothing,Dress,Unisex,Brown,XS,ClassicWear,1764,4.4
+F0891,Footwear,Sneakers,Unisex,White,M,ClassicWear,1358,4.7
+F0892,Footwear,Slippers,Men,Blue,XL,UrbanStyle,3846,4.3
+F0893,Footwear,Slippers,Women,White,XXL,ClassicWear,4684,3.2
+F0894,Accessories,Cap,Unisex,Red,S,UrbanStyle,1780,3.1
+F0895,Accessories,Sunglasses,Women,Beige,XS,StreetMode,4292,4.1
+F0896,Footwear,Sneakers,Men,Grey,XS,ClassicWear,6605,3.1
+F0897,Clothing,Trousers,Unisex,Pink,L,FashionHub,3434,4.2
+F0898,Clothing,T-Shirt,Unisex,Blue,L,UrbanStyle,2329,4.8
+F0899,Accessories,Watch,Men,Blue,XS,FashionHub,608,4.8
+F0900,Clothing,Skirt,Unisex,Blue,XL,TrendWear,3748,4.6
+F0901,Clothing,Skirt,Unisex,Navy,S,TrendWear,3694,3.4
+F0902,Footwear,Slippers,Unisex,Beige,M,TrendWear,6303,4.2
+F0903,Clothing,Jacket,Men,Black,XL,FashionHub,1773,3.1
+F0904,Footwear,Running Shoes,Women,Blue,XXL,ClassicWear,5232,3.3
+F0905,Clothing,T-Shirt,Men,White,XXL,VogueLine,3584,3.3
+F0906,Footwear,Sneakers,Men,Black,S,TrendWear,6488,4.3
+F0907,Footwear,Formal Shoes,Unisex,Brown,XXL,FashionHub,2387,3.3
+F0908,Footwear,Boots,Women,Beige,S,FashionHub,5700,4.4
+F0909,Accessories,Sunglasses,Unisex,Brown,XL,TrendWear,2666,3.7
+F0910,Clothing,Kurta,Men,Red,XS,TrendWear,2934,3.7
+F0911,Accessories,Handbag,Men,Brown,XXL,StylePro,2463,3.1
+F0912,Clothing,Jeans,Unisex,Brown,L,FashionHub,1053,4.3
+F0913,Clothing,T-Shirt,Unisex,Grey,M,StylePro,2179,3.5
+F0914,Accessories,Wallet,Women,Black,XS,UrbanStyle,4601,3.4
+F0915,Clothing,Skirt,Unisex,White,XS,StylePro,3353,3.9
+F0916,Accessories,Belt,Women,Red,XXL,ClassicWear,2083,4.6
+F0917,Footwear,Running Shoes,Men,Red,XXL,VogueLine,2337,3.8
+F0918,Clothing,Shirt,Women,Navy,L,UrbanStyle,2184,3.3
+F0919,Accessories,Cap,Men,Beige,M,FashionHub,3948,4.4
+F0920,Accessories,Belt,Women,Red,M,FashionHub,461,4.4
+F0921,Clothing,Hoodie,Men,White,L,DenimCo,2112,3.3
+F0922,Footwear,Running Shoes,Women,Navy,S,FashionHub,5434,4.9
+F0923,Clothing,Shirt,Women,Pink,L,StylePro,2822,3.9
+F0924,Footwear,Sandals,Men,Beige,XXL,StylePro,2729,3.7
+F0925,Accessories,Sunglasses,Unisex,Blue,XL,UrbanStyle,3621,5.0
+F0926,Clothing,Skirt,Unisex,Pink,XS,VogueLine,2574,3.8
+F0927,Accessories,Wallet,Men,Brown,L,StylePro,879,4.1
+F0928,Clothing,Dress,Men,Blue,M,StreetMode,1378,4.3
+F0929,Clothing,T-Shirt,Women,Green,S,DenimCo,3913,4.1
+F0930,Accessories,Watch,Women,Brown,S,VogueLine,1714,4.6
+F0931,Footwear,Slippers,Women,Black,XXL,TrendWear,3851,4.8
+F0932,Footwear,Boots,Men,Green,L,StreetMode,6417,4.9
+F0933,Accessories,Handbag,Men,White,XL,ClassicWear,648,4.0
+F0934,Accessories,Belt,Men,White,L,ClassicWear,4011,4.2
+F0935,Footwear,Sandals,Men,Pink,XXL,TrendWear,5292,4.4
+F0936,Clothing,Jeans,Women,Red,XL,TrendWear,3057,4.0
+F0937,Accessories,Wallet,Unisex,Red,XXL,StylePro,2824,3.7
+F0938,Footwear,Boots,Unisex,Beige,M,UrbanStyle,1218,3.7
+F0939,Footwear,Formal Shoes,Unisex,Pink,XS,DenimCo,6513,4.1
+F0940,Accessories,Belt,Women,Navy,M,TrendWear,1741,4.8
+F0941,Footwear,Sneakers,Men,Beige,S,StreetMode,1329,3.2
+F0942,Footwear,Sneakers,Unisex,Blue,L,FashionHub,2372,4.0
+F0943,Accessories,Watch,Women,Beige,XXL,FashionHub,4081,3.7
+F0944,Footwear,Slippers,Unisex,Black,M,StylePro,1214,3.0
+F0945,Clothing,Kurta,Unisex,Grey,L,ClassicWear,3084,4.3
+F0946,Footwear,Formal Shoes,Unisex,Pink,XL,DenimCo,4450,3.6
+F0947,Clothing,Hoodie,Men,Green,S,DenimCo,1922,4.9
+F0948,Clothing,Jeans,Women,Green,L,FashionHub,2932,4.8
+F0949,Accessories,Handbag,Women,Blue,S,FashionHub,1519,3.5
+F0950,Clothing,Jacket,Unisex,Blue,L,StreetMode,1913,3.4
+F0951,Accessories,Backpack,Men,Grey,M,FashionHub,3253,3.9
+F0952,Clothing,Kurta,Women,White,XS,VogueLine,2444,4.5
+F0953,Footwear,Sandals,Men,Black,XXL,ClassicWear,6001,4.4
+F0954,Footwear,Sandals,Unisex,Blue,XL,DenimCo,3473,4.4
+F0955,Accessories,Cap,Men,Blue,XXL,TrendWear,2722,3.0
+F0956,Accessories,Wallet,Men,Brown,M,TrendWear,2872,3.1
+F0957,Accessories,Sunglasses,Unisex,Pink,S,StreetMode,1802,3.0
+F0958,Accessories,Wallet,Women,White,XL,VogueLine,1791,4.0
+F0959,Accessories,Handbag,Unisex,Black,XXL,ClassicWear,3455,3.3
+F0960,Footwear,Sandals,Women,Grey,XS,StreetMode,3524,3.7
+F0961,Footwear,Boots,Men,Red,XXL,DenimCo,6773,5.0
+F0962,Footwear,Sandals,Men,Beige,XXL,VogueLine,1842,4.7
+F0963,Accessories,Watch,Men,Red,M,DenimCo,4502,5.0
+F0964,Clothing,Dress,Men,Black,L,StreetMode,2096,3.3
+F0965,Footwear,Slippers,Unisex,Blue,S,FashionHub,3826,3.6
+F0966,Footwear,Sneakers,Women,Navy,M,DenimCo,5280,4.5
+F0967,Clothing,T-Shirt,Men,Blue,M,StreetMode,3022,4.7
+F0968,Footwear,Sneakers,Unisex,Green,L,FashionHub,4728,4.8
+F0969,Accessories,Sunglasses,Men,White,M,DenimCo,745,4.2
+F0970,Footwear,Boots,Women,Navy,L,StreetMode,5843,4.4
+F0971,Accessories,Wallet,Men,Grey,XL,UrbanStyle,2325,3.3
+F0972,Clothing,Jeans,Women,Brown,XXL,FashionHub,1862,3.3
+F0973,Footwear,Sandals,Women,Grey,XS,StreetMode,3088,4.1
+F0974,Clothing,Kurta,Men,Blue,XS,FashionHub,2626,3.6
+F0975,Footwear,Slippers,Women,Green,XXL,ClassicWear,1484,4.1
+F0976,Footwear,Running Shoes,Men,Blue,XL,StreetMode,3754,4.6
+F0977,Footwear,Sandals,Men,White,S,FashionHub,4822,3.4
+F0978,Clothing,Kurta,Unisex,Pink,XL,TrendWear,2108,3.9
+F0979,Clothing,Shirt,Men,Black,L,ClassicWear,1675,4.4
+F0980,Clothing,Skirt,Unisex,Pink,M,FashionHub,3306,3.6
+F0981,Accessories,Wallet,Men,Red,S,FashionHub,2055,3.6
+F0982,Clothing,Jeans,Men,Beige,XXL,TrendWear,717,3.0
+F0983,Footwear,Formal Shoes,Men,Red,XS,UrbanStyle,6103,4.0
+F0984,Clothing,Skirt,Men,Green,XS,TrendWear,1634,4.3
+F0985,Clothing,Shirt,Unisex,Red,XL,StylePro,1155,4.3
+F0986,Clothing,Shirt,Men,Green,XL,ClassicWear,1841,3.3
+F0987,Accessories,Wallet,Unisex,Navy,S,TrendWear,1010,4.6
+F0988,Clothing,Kurta,Men,Red,M,FashionHub,3487,4.1
+F0989,Accessories,Watch,Men,Pink,XXL,DenimCo,3201,4.4
+F0990,Clothing,Skirt,Unisex,White,S,ClassicWear,1953,3.8
+F0991,Accessories,Sunglasses,Women,White,M,TrendWear,4015,3.2
+F0992,Clothing,Skirt,Women,Green,XL,UrbanStyle,735,3.7
+F0993,Clothing,Dress,Women,Brown,XL,StreetMode,3213,5.0
+F0994,Footwear,Running Shoes,Unisex,Beige,M,VogueLine,2245,4.7
+F0995,Footwear,Slippers,Women,Blue,XS,DenimCo,6204,3.2
+F0996,Footwear,Boots,Unisex,White,XS,FashionHub,3933,3.8
+F0997,Accessories,Watch,Unisex,Blue,XS,ClassicWear,1829,3.7
+F0998,Accessories,Wallet,Women,White,S,VogueLine,4287,3.6
+F0999,Accessories,Wallet,Unisex,Navy,M,VogueLine,3116,4.0
+F1000,Accessories,Cap,Women,Pink,M,FashionHub,3923,3.2
